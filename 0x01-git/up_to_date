@@ -1,0 +1,4 @@
+git add .
+git commit -m "the commit message"
+git push origin master
+git pull
